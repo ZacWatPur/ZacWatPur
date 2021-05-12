@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <title>Zac Purinton</title>
+</head>
 
-You can use the [editor on GitHub](https://github.com/ZacWatPur/ZacWatPur/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<body>
+	<a target="_blank" href="C:/Users/ZPurinton/Documents/Personal/Data Boot Camp/In Class Activities/Web/Class 2/Activities/01-Stu_HTMLBio/Unsolved/Sailing_Sea_Jewel.jpg">
+			<img src="C:/Users/ZPurinton/Documents/Personal/Data Boot Camp/In Class Activities/Web/Class 2/Activities/01-Stu_HTMLBio/Unsolved/Sailing_Sea_Jewel.jpg" alt="Narragansett Bay">
+	</a>
+	<p><em>Narragansett Bay</em></p>
+	<p> A data driven person expanding their skills at coding</p>
+	<p> Dealing with a very upset daughter </p>
+	
+	<ul>
+		<p>Facebook</p>
+		<p>LinkedIn</p>
+		<p>Instagram</p>
+	</ul>
+	<table border = "1">
+	<thead>
+		<tr>
+			<th colspan = "4"><strong>Some of my likes</strong></th>
+		</tr>
+		<tr>
+			<th>Books</th>
+			<th>Movies</th>
+			<th>TV</th>
+			<th>Hobies</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>The Lord of the Rings</td>
+			<td>Dead Poets Society</td>
+			<td>Sherlock</td>
+			<td>Golf</td>
+		</tr>
+		<tr>
+			<td>7 Habits of Highly Effective People</td>
+			<td>Princess Bride</td>
+			<td>Inspector Morse</td>
+			<td>Sailing</td>
+		</tr>
+		<tr>
+			<td>To the Linksland</td>
+			<td>Glory Road</td>
+			<td>Endeavor</td>
+			<td>Guitar</td>
+		</tr>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+		<tr>
+			<td>The Phantom Tollbooth</td>
+			<td>Sahara</td>
+			<td>Doctor Who</td>
+			<td>Gardening</td>
+		</tr>
+	</tbody>	
+		
+</body>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZacWatPur/ZacWatPur/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
